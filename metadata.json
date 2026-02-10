@@ -1,0 +1,8 @@
+{
+  "name": "IqraPath",
+  "description": "A comprehensive Islamic companion app featuring Qur'an reading, prayer times, ibadah tracking, and an authentic Islamic knowledge hub.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
